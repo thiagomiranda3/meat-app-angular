@@ -1,5 +1,5 @@
 # Meat - Angular App
-Projeto estilo iFood para aprender Angular 2++
+Projeto estilo iFood para aprender Angular 2++ com o [curso do Udemy] (https://www.udemy.com/angular-pt).
 
 ## 1. Passos para começar
 
