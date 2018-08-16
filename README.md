@@ -1,5 +1,8 @@
-# Meat - Angular App
-Projeto estilo iFood para aprender Angular 2++ com o [curso do Udemy](https://www.udemy.com/angular-pt).
+# Meat - Angular Application
+
+Este respositório contém a implementação da aplicação feita no curso de Angular. O bundle para começar o seu projeto está [aqui].
+
+[aqui]: https://github.com/cod3rcursos/meat-app-starter
 
 ## 1. Passos para começar
 
@@ -20,3 +23,15 @@ Projeto estilo iFood para aprender Angular 2++ com o [curso do Udemy](https://ww
 ### Iniciando o serviço (raiz da aplicação)
 
 `json-server db.json`
+
+## Goodies
+
+Expressões regulares usadas na validação de formulários
+
+### Email Regex
+
+`/^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i`
+
+### Number Regex
+
+`/^[0-9]*$/`
